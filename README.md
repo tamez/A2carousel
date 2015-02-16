@@ -29,6 +29,4 @@
         (x -User can dismiss the settings screen.)
         User can log out
         
-        ![Video Walkthrough](A2courousel01.gif)
-
-
+![Video Walkthrough](A2courousel01.gif)
